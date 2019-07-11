@@ -38,6 +38,11 @@ nav {
   color: white;
 }
 
+.profile img{
+  border-radius: 50%;
+  padding: 10px
+}
+
 .sidebar a {
   display: block;
   color: white;
